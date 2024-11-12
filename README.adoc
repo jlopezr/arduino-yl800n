@@ -3,14 +3,9 @@
 
 = {repository-name} Library for Arduino =
 
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/arduino-lint.yml/badge.svg["Arduino Lint", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/check-arduino.yml"]
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml/badge.svg["Compile Examples status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/compile-examples.yml"]
-image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml/badge.svg["Spell Check status", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/spell-check.yml"]
+image:https://github.com/{repository-owner}/{repository-name}/actions/workflows/arduino-lint.yml/badge.svg["Arduino Lint", link="https://github.com/{repository-owner}/{repository-name}/actions/workflows/arduino-lint.yml"]
 
-With the Arduino Ethernet Shield, this library allows an Arduino board to connect to the internet.
-
-For more information about this library please visit us at
-https://www.arduino.cc/en/Reference/{repository-name}
+This library provides a driver to use the YL-800N LoRa mesh module with Arduino.
 
 == License ==
 

@@ -1,5 +1,5 @@
 :repository-owner: jlopezr
-:repository-name: YL-800N
+:repository-name: arduino-yl800n
 
 = {repository-name} Library for Arduino =
 
